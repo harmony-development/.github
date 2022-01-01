@@ -1,6 +1,6 @@
 # Welcome to Harmony!
 
-This is where we develop Harmony. You can find all our projects here:
+This is where we develop Harmony, an open source federated chat protocol with an emphasis on simplicity and performance. You can find all our projects here:
 
 - [the Harmony Protocol]
 - Our RPC system, [hRPC]
