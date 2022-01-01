@@ -4,7 +4,7 @@ This is where we develop Harmony. You can find all our projects here:
 
 - [the Harmony Protocol]
 - Our RPC system, [hRPC]
-- Harmony clients [Tempest], [Challah], [Loqui]
+- Harmony clients [Challah], [Loqui], [Tempest]
 - Harmony servers [Scherzo], [Legato]
 
 ## Reach us
@@ -14,8 +14,8 @@ This is where we develop Harmony. You can find all our projects here:
 
 [the Harmony Protocol]: https://github.com/harmony-development/protocol
 [hRPC]: https://github.com/harmony-development/hrpc
-[Tempest]: https://github.com/harmony-development/tempest
-[Challah]: https://github.com/harmony-development/Challah
 [Loqui]: https://github.com/harmony-development/Loqui
+[Challah]: https://github.com/harmony-development/Challah
+[Tempest]: https://github.com/harmony-development/tempest
 [Scherzo]: https://github.com/harmony-development/scherzo
 [Legato]: https://github.com/harmony-development/legato
