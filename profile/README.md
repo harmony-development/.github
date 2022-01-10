@@ -1,6 +1,9 @@
 # Welcome to Harmony!
 
-This is where we develop Harmony, an open source federated chat protocol with an emphasis on simplicity and performance. You can find all our projects here:
+This is where we develop Harmony, an open source federated chat protocol with an emphasis on simplicity and performance.
+Check out https://harmonyapp.io/ for more information.
+
+You can find all our projects here:
 
 - [the Harmony Protocol]
 - Our RPC system, [hRPC]
@@ -9,6 +12,7 @@ This is where we develop Harmony, an open source federated chat protocol with an
 
 ## Reach us
 
+- [on Harmony](https://chat.harmonyapp.io/harmony)
 - [on Discord](https://discord.gg/uxE7nEDSAd)
 - [on Matrix](https://matrix.to/#/#harmony:tchncs.de)
 
